@@ -1,6 +1,6 @@
 import { StyleSheet, Platform } from 'react-native';
 
-export const borderRadius = 4;
+export const borderRadius = 27;
 
 let containerStyle = {
   position: 'absolute',
